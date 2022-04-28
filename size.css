@@ -1,0 +1,20 @@
+body { background-color: rgb(90, 86, 86); font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+.wrap {align-content: center; width:700px; min-height:700px; background-color: rgb(249, 243, 235);}
+.wrap2 { background-image: url(backg.jpg); align-content: center; width:550px; min-height:550px;
+     background-color: white; padding-left: 50px;}
+.wrap3 {width:500px; min-height:500px; display: flex; flex-direction: column; align-items: center; }
+.first {background-image: url(bake.jpg);}
+header {
+    vertical-align: middle;
+    text-align: center;
+    padding-top: 35px;
+    font-size: 50px;
+    color: black;
+}
+header a:link, :hover, :visited {color: black;}
+a { text-decoration: none; }
+nav { width: 700px; height: 40px; margin-top: 15px; background-color: white;}
+nav a { padding: 0 35px 0 35px; font-size: 15px; }
+nav a:link,:visited {color: rgb(53, 34, 6);}
+nav a:hover {color: rgb(132, 105, 25);}
+.gred {font-family: 'Gowun Batang', serif;}
